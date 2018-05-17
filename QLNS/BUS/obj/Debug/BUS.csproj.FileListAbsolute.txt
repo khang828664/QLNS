@@ -1,0 +1,7 @@
+c:\Users\khang luu\documents\visual studio 2015\Projects\QLNS\BUS\bin\Debug\BUS.dll
+c:\Users\khang luu\documents\visual studio 2015\Projects\QLNS\BUS\bin\Debug\BUS.pdb
+c:\Users\khang luu\documents\visual studio 2015\Projects\QLNS\BUS\bin\Debug\DATA.dll
+c:\Users\khang luu\documents\visual studio 2015\Projects\QLNS\BUS\bin\Debug\DATA.pdb
+c:\Users\khang luu\documents\visual studio 2015\Projects\QLNS\BUS\obj\Debug\BUS.dll
+c:\Users\khang luu\documents\visual studio 2015\Projects\QLNS\BUS\obj\Debug\BUS.pdb
+c:\Users\khang luu\documents\visual studio 2015\Projects\QLNS\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache

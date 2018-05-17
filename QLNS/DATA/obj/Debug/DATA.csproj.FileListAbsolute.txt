@@ -1,0 +1,5 @@
+c:\Users\khang luu\documents\visual studio 2015\Projects\QLNS\DATA\bin\Debug\DATA.dll
+c:\Users\khang luu\documents\visual studio 2015\Projects\QLNS\DATA\bin\Debug\DATA.pdb
+c:\Users\khang luu\documents\visual studio 2015\Projects\QLNS\DATA\obj\Debug\DATA.dll
+c:\Users\khang luu\documents\visual studio 2015\Projects\QLNS\DATA\obj\Debug\DATA.pdb
+C:\Users\KHANG LUU\Documents\Visual Studio 2015\Projects\QLNS\DATA\obj\Debug\DATA.csprojResolveAssemblyReference.cache
